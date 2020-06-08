@@ -28,3 +28,8 @@ for numero in range(1,1000,100):
 for numero in range(10,0,-1):
   print(numero)
 
+contador = 1000
+
+while(contador>1):
+  contador = contador - 1
+  print(contador)
