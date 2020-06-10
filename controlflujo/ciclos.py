@@ -24,7 +24,7 @@ for nombre in ["pancho","laura","fili","luis"]:
 
 for numero in range(1,1000,100):
   print(numero)
-"""
+
 for numero in range(10,0,-1):
   print(numero)
 
@@ -33,3 +33,11 @@ contador = 1000
 while(contador>1):
   contador = contador - 1
   print(contador)
+"""
+for i in range(1,10):
+  print(i)
+  if i == 3:
+    quit()
+  print("mascodigo")
+
+   
